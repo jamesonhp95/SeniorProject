@@ -1,8 +1,11 @@
 <?php
-  $host = 'localhost:3306';
-  $dbname = 'MentorProgram';
-  $username = 'databaseUser';
-  $password = 'Az16dqwBztTj-agB';
+/*
+* All passwords, usernames, host, and database names have been removed for security.
+*/
+  $host = '******';
+  $dbname = '******';
+  $username = '******';
+  $password = '******';
 
   try {
 	  $conn = new mysqli($host, $username, $password, $dbname);
