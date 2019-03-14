@@ -1,0 +1,59 @@
+.admin_commands {
+	display: inline-block;
+	background: #f8f8f8 none repeat scroll 0 0;
+	float: left;
+	overflow: auto;
+	height: 100%;
+	width: 35%;
+	border-right: 1px solid #c4c4c4;
+}
+.admin_view_command {
+	float: left;
+	display: inline-block;
+	position: absolute;
+	overflow-x: auto;
+	right: 0px;
+	height: 100%;
+	width: 65%;
+}
+.admin_view_command table {
+	border: 1px solid black;
+	width: 100%;
+}
+.admin_view_command td {
+	width: 30%;
+	border: 1px solid black;
+	text-align: center;
+}
+.cmd_approve {
+	width: 15%;
+}
+.admin_cmd_list {
+	border-bottom: 1px solid #c4c4c4;
+	margin: 0;
+	padding: 9px 8px 5px;
+}
+.admin_cmd {
+	overflow: hidden;
+	clear: both;
+}
+.admin_cmd_ib {
+	float: left;
+	padding: 0 0 0 8px;
+	width: 88%;
+}
+.admin_cmd_ib h5 { font-size: 15px; color: #464646; margin: 0 0 8px 0; }
+
+.admin_button-Command
+{
+  color: buttontext;
+  align-items: flex-start;
+  text-align: center;
+  background-color: buttonface;
+  border-width: 2px;
+  border-style: outset;
+  border-color: buttonface;
+  border-image: initial;
+  display: inline-block;
+  font-size: inherit;
+}

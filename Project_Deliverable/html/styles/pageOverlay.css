@@ -1,0 +1,12 @@
+#content {
+	color: black;
+	background: white;
+	width: 70%;
+	min-height: 100%;
+	overflow: hidden;
+	/*height: 100%;*/
+	margin: auto;
+	position: relative;
+	display: block;
+	/*text-align: left;*/
+}
