@@ -1,4 +1,4 @@
-# SeniorProject
+# SeniorProject - Team Project
 This project was intended to be a Mentorship program where individuals could sign up to become a mentor for current students at Eastern Washington University. 
 Project documentation can be found in the Documentation directory, which also includes a Presentation directory. This contains the PowerPoint presentation that my team used as our final presentation. Additionally, there is Database information, and documentation aimed towards everyday Users and technical support/programmers that might have been supporting the application in the future.\
 
