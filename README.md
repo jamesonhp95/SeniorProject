@@ -15,47 +15,47 @@ Jordan Caraway & Raleigh Beckstrom:
   
 Jordan Caraway:
   All procedures used in database.
-  Logout.php
-  MenteeLogin.php
-  ProfileTest.php
-  resetPassword.php
-  resetPasswordInput.php
-  sendAdminTestEmail.php
-  showAdminEmailCredentialInput.php
-  verify.php
-  verifyNewEmail.php
+  Logout.php,
+  MenteeLogin.php,
+  ProfileTest.php,
+  resetPassword.php,
+  resetPasswordInput.php,
+  sendAdminTestEmail.php,
+  showAdminEmailCredentialInput.php,
+  verify.php,
+  verifyNewEmail.php,
   
 Raleigh Beckstrom:
-  AccountCreation.php
-  Profile.php
-  LandingPage.php
-  FAQ.php
-  TermsAndConditions.php
+  AccountCreation.php,
+  Profile.php,
+  LandingPage.php,
+  FAQ.php,
+  TermsAndConditions.php,
   
 Jameson Price:
-  AdminLogin.php
-  Login.php
-  Conversations.php
-  AccountCreationSecondEdition.php
-  ProfileSecondEdition.php
-  Search.php
-  adminSearchMentors.php
-  approveMentor.php
-  dismissSelectedUser.php
-  endPartnership.php
-  mentorSendPopUp.php
-  populateConversations.php
-  populateHeadArea.php
-  populateMessages.php
-  populateTypedMessage.php
-  popupMaker.php
-  searchMentors.php
-  searchSuggestions.php
-  sendMessage.php
-  sendPopUpMessage.php
-  setVariable.php
-  showReportedUserCircumstances.php
-  showSelectedMentorProfile.php
+  AdminLogin.php,
+  Login.php,
+  Conversations.php,
+  AccountCreationSecondEdition.php,
+  ProfileSecondEdition.php,
+  Search.php,
+  adminSearchMentors.php,
+  approveMentor.php,
+  dismissSelectedUser.php,
+  endPartnership.php,
+  mentorSendPopUp.php,
+  populateConversations.php,
+  populateHeadArea.php,
+  populateMessages.php,
+  populateTypedMessage.php,
+  popupMaker.php,
+  searchMentors.php,
+  searchSuggestions.php,
+  sendMessage.php,
+  sendPopUpMessage.php,
+  setVariable.php,
+  showReportedUserCircumstances.php,
+  showSelectedMentorProfile.php,
   
 ---NOTE---
 If I could start this project from the beginning, I would have suggested to my team to create directories pertaining to different portions of the project to increase the organization of the file structure in the project.
