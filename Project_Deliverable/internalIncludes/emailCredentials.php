@@ -1,9 +1,12 @@
 <?php
+/*
+* All passwords and email usernames have been removed for security.
+*/
 
 function getEmailUsername() {
-  return 'JordanCaraway@eagles.ewu.edu';
+  return '******';
 }
 function getEmailPassword() {
-  return '2ax7nriX!';
+  return '******';
 }
 ?>
