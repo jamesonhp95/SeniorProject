@@ -30,5 +30,5 @@ My Individual Contribution:
   
 ---NOTE---
 If I could start this project from the beginning, I would have suggested to my team to create directories pertaining to different portions of the project to increase the organization of the file structure in the project.
-Near the end of the project, my team discovered the the Profile.php and AccountCreation.php were not protecting against html injection and sql injection properly, so I created the second editions to add to the project structure as a guideline for any individuals continuing this project in the future. Unfortunately, I did not get to extensively test these files as much as I would like, but as far as I was able to see they were working as intended.
+Near the end of the project, my team discovered that the Profile.php and AccountCreation.php were not protecting against html injection and sql injection properly, so I created the second editions to add to the project structure as a guideline for any individuals continuing this project in the future. Unfortunately, I did not get to extensively test these files as much as I would like, but as far as I was able to see they were working as intended.
 ---END NOTE---
